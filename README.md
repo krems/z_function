@@ -4,4 +4,4 @@ z_function
 Z-Function
 
 
-Construction O(n)
+Construction Time O(n), Space O(n)
